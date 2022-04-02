@@ -1,0 +1,15 @@
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\bin\Debug\net6.0\C_Sharp_Algos.exe
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\bin\Debug\net6.0\C_Sharp_Algos.deps.json
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\bin\Debug\net6.0\C_Sharp_Algos.runtimeconfig.json
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\bin\Debug\net6.0\C_Sharp_Algos.dll
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\bin\Debug\net6.0\ref\C_Sharp_Algos.dll
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\bin\Debug\net6.0\C_Sharp_Algos.pdb
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.csproj.AssemblyReference.cache
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.AssemblyInfoInputs.cache
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.AssemblyInfo.cs
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.csproj.CoreCompileInputs.cache
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.dll
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\ref\C_Sharp_Algos.dll
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.pdb
+D:\code\my_code\2022\C_Sharp_Algos\C_Sharp_Algos\FindMax\obj\Debug\net6.0\C_Sharp_Algos.genruntimeconfig.cache
